@@ -31,6 +31,8 @@
       "eas": {
         "projectId": "386e3436-8175-4153-9275-d7690d282192"
       }
-    }
-  }
+    },
+    "sdkVersion": "48.0.0"
+  },
+  "name": "fortniteapp"
 }
